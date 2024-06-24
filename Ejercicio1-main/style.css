@@ -1,0 +1,26 @@
+.contenedor {
+    background-color:rgb(245, 184, 240);
+    padding: 30px;/*Espacio que hay entre el borde*/
+    border-radius: 20px;
+    border: 2px solid black;
+    min-height: 10 px;
+    height: 195px;
+    margin: 50px;
+    /*margin-top: -60px;*/
+}
+
+body {
+    background-image: url('6452925.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size:200% 200% ;
+}
+
+.circulo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+
